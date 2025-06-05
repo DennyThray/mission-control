@@ -22,7 +22,7 @@
 - Filter by **priority** level
 - Sort by:
   - Priority (High → Low, then due soonest)
-  - Creation date (newest first)
+  - Due date (Earliest first)
 
 ### 📊 Statistics Summary
 
